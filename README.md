@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amit-23-hub
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning html,CSS, javascript,c &c++
-- 💞️ I’m looking to collaborate on front-end development 
+- 👀 I’m interested in MERN STACK  
+- 💞️ I’m looking to collaborate on MERN STACK PREOJECT  
 - 📫 How to reach me  amitsahani2322003@gmail.com
 
 <!---
