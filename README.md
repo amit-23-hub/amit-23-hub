@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Sahani</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-23-hub&label=Profile%20views&color=0e75b6&style=flat" alt="amit-23-hub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-23-hub" alt="amit-23-hub" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@amit_sahani_19" target="blank"><img src="https://img.shields.io/twitter/follow/@amit_sahani_19?logo=twitter&style=for-the-badge" alt="@amit_sahani_19" /></a> </p>
 
