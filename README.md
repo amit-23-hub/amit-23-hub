@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **react js , mongodb, express js , node js**
+- 💬 Ask me about **react js , mongodb, express js , node js , firebase , docker , AWS , CI/CD  , Appwrite , Firebase**
 
 - 📫 How to reach me **amitsahani2322003@gmail.com**
 
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/@amit_sahani_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amit_sahani_19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-sahani-849537246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-sahani-849537246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/_.__i_sahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.__i_sahani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumit_sa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit_sa" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mr_unknown19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit_sa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
